@@ -1,0 +1,15 @@
+{
+    "peliculas":
+    [
+        {
+            "Titulo":"Alien","director":"Ridley Scott","Año":1979
+        },
+
+        {
+            "Titulo":"Predator","director":"John McTiernan","Año":1987
+        },
+        {
+            "Titulo":"Terminator","director":"James Cameron","Año":1984
+        }
+    ]
+}
