@@ -1,0 +1,12 @@
+{
+    "nombre":"Tienda de progresa",
+    "direccion": {"calle": "Calle Falsa 123","ciudad": "Ciudad Ejemplo", "codigo_postal": "12345"},
+
+    "productos": 
+    [
+        {"nombre": "Producto 1", "precio": 10.99, "categoria": "Categoria A"},
+        {"nombre": "Producto 2", "precio": 15.49, "categoria": "Categoria B"},
+        {"nombre": "Producto 3", "precio": 7.99, "categoria": "Categoria A"}
+    ]
+    
+}
