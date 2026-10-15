@@ -1,0 +1,5 @@
+{
+    "nombre":"Carlos",
+    "edad": 23,
+    "direccion": {"calle": "Calle Falsa 123","ciudad": "Ciudad Ejemplo", "codigo_postal": "12345"}
+}
