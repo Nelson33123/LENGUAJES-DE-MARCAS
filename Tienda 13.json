@@ -1,6 +1,6 @@
 {
-    "tienda":
-    [
+    "tienda":{
+        "productos":[
         {
             "nombre": "Tienda 13",
             "precio": 100,
@@ -33,5 +33,13 @@
             "categoria": "Hogar",
             "disponible": true
         }
+    
+
+
     ]
+
+    }
+    
+    
+        
 }

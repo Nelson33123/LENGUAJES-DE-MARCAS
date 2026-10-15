@@ -1,0 +1,29 @@
+{
+    "pedidos":
+    [
+        {
+            "pedido": "Pedido 1",
+            "cliente": "Cliente A",
+            "productos": "Manzana",
+            "cantidad": 10,
+            "entregado": true
+        },
+
+        {
+            "pedido": "Pedido 2",
+            "cliente": "Cliente B",
+            "productos": "Banana",
+            "cantidad": 5,
+            "entregado": false
+        },
+            
+        {
+            "pedido": "Pedido 3",
+            "cliente": "Cliente C",
+            "productos": "Naranja",
+            "cantidad": 8,
+            "entregado": true
+        }
+
+    ]
+}
