@@ -1,0 +1,91 @@
+{
+    "nombre": "Tienda 16",
+    "abierta": true,
+    "contacto":
+    {
+        "telefono": "555-1234",
+        "email": "da@tienda16.com"
+    },
+    "categorias":
+    [
+        {
+            "id": 1,
+            "nombre": "Ropa",
+            "productos":
+            [
+                {
+                    "sku": "R001",
+                    "nombre": "Camiseta",
+                    "precio": 19.99,
+                    "disponible": true,
+                    "etquetas":
+                    [   "algodón",
+                        "verano"
+                    ],
+                    "dimensiones":
+                    {
+                        "alto": 1.0,
+                        "ancho": 0.5
+                        
+                    }
+                    
+                }
+            ]
+        },
+
+
+
+
+        {
+            "id": 2,
+            "nombre": "Electrónica",
+            "productos":
+            [
+                {
+                    "sku": "E001",
+                    "nombre": "Auriculares",
+                    "precio": 49.99,
+                    "disponible": true,
+                    "etquetas":
+                    [   "inalámbrico",
+                        "bluetooth"
+                    ],
+                    "dimensiones":
+                    {
+                        "alto": 0.2,
+                        "ancho": 0.15
+                        
+                    }
+                    
+                }
+            ]
+        },
+
+
+
+        {
+            "id": 3,
+            "nombre": "Hogar",
+            "productos":
+            [
+                {
+                    "sku": "H001",
+                    "nombre": "Cafetera",
+                    "precio": 79.99,
+                    "disponible": true,
+                    "etquetas":
+                    [   "eléctrica",
+                        "café"
+                    ],
+                    "dimensiones":
+                    {
+                        "alto": 0.3,
+                        "ancho": 0.25
+                        
+                    }
+                    
+                }
+            ]
+        }
+    ]
+}

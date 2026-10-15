@@ -1,0 +1,31 @@
+{
+    "nombre": "Tienda 16",
+    "fundacion": "2005",
+    "sede":
+    {
+        "pais": "España",
+        "ciudad": "Madrid",
+        "coordenadas":
+        {
+            "latitud": 40.4168,
+            "longitud": -3.7038
+        }
+    },
+    "cursos":
+    [
+        {
+            "codigo": "C001",
+            "titulo": "Introducción a la Programación",
+            "profesor":
+            {
+                "nombre": "Dr. Juan Pérez",
+                "especificaciones":
+                [
+                    "email":"juan.perez@academia.com",
+                    "telefono":"123-456-789"
+
+                ]
+            }
+        }
+    ]
+}
