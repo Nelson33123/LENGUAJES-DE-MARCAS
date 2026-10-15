@@ -1,0 +1,37 @@
+{
+    "tienda":
+    [
+        {
+            "nombre": "Tienda 13",
+            "precio": 100,
+            "categoria": "Electrónica",
+            "disponible": true
+        },
+
+
+        
+        {
+            "nombre": "Tienda 14",
+            "precio": 200,
+            "categoria": "Ropa",
+            "disponible": false
+        },
+
+
+        {
+            "nombre": "Tienda 15",
+            "precio": 150,
+            "categoria": "Alimentos",
+            "disponible": true
+        },
+
+
+
+        {
+            "nombre": "Tienda 16",
+            "precio": 300,
+            "categoria": "Hogar",
+            "disponible": true
+        }
+    ]
+}
